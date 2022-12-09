@@ -21,6 +21,10 @@
   ## Description 
  This project entailed creating a full stack application using express.js, MySql2, Mysql, express-session and handlebars to create a full stack app that allow the user to create and account and login. When logged in the user is able to make new posts as well as comment on post. This app is deployed on heroku. 
 
+ Currently buggy, trying to hopefully solve in time.
+
+ [Link to deployed application on heroku](https://challenge14sophiek.herokuapp.com/)
+
   ## License 
  MIT License 
 
